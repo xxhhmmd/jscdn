@@ -4,3 +4,4 @@
 -novid -tickrate 128 +cl_updaterate 128 +cl_cmdrate 128 -preload -high -r_emulate_gl -limitvsconst -forcenovsync -softparticlesdefaultoff +mat_queue_mode 2 +r_dynamic +mat_disable_fancy_blending 1 -allow_third_party_software r_drawtracers_firstperson 1 -worldwide +r_dynamic 0 r_drawtracers_firstperson 1
 2021年10月22日13:38:32
 2021年10月22日13:40:14
+2021年10月22日13:43:37
